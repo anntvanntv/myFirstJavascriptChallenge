@@ -113,6 +113,12 @@ button {
     }
 }
 
+@media(min-width:410px) and (max-width:414px){
+    .hero{
+        padding-left:-15px;
+    }
+}
+
 @media(max-width:375px){
     .hero{
         background-color: blue;
